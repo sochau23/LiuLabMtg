@@ -1,1 +1,3 @@
-# LiuLabMtg
+# Liu Lab Mtg
+
+Today is Thursday! 
